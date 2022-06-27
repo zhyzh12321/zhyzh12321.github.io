@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Story</title>
+    <link>https://github.com/zhyzh12321/zhyzh12321.github.io/</link>
+    <description>Recent content on Hugo Story</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 13:12:27 +0800</lastBuildDate><atom:link href="https://github.com/zhyzh12321/zhyzh12321.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://github.com/zhyzh12321/zhyzh12321.github.io/post/first/</link>
+      <pubDate>Mon, 27 Jun 2022 13:12:27 +0800</pubDate>
+      
+      <guid>https://github.com/zhyzh12321/zhyzh12321.github.io/post/first/</guid>
+      <description>�����ҵĵ�һƪ�����������л�˵��һ��������hugo��һЩ���� �������������⣬�����ط��������ã�����git��������git init����һֱû���½�������ʾcommand not found �ھ���ɾ����ɾһ��Сʱ���ҵĳ���֮�У����տ����½������ˡ�</description>
+    </item>
+    
+  </channel>
+</rss>
